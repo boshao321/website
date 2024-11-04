@@ -2,8 +2,6 @@
 title: Publications
 ---
 
-
-
 - Xiaoli Su, **Bo Shao**, Zhe Yuan & Chenghu Yang. A Data-Driven Distributionally Robust Optimization Approach for Risk-Averse Newsvendor Problem with Demand Censoring. *Annals of Operations Research*. (Under review).
 
 - **Bo Shao**, Xiaoli Su, Xin Li & Xingxuan Zhuo. Mixed-Frequency Data-Driven Forecasting Port Throughput: A Novel Attention-DeepAR-MIDAS Model. *International Journal of Shipping and Transport Logistics*. (In press).

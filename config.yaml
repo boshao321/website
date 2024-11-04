@@ -15,14 +15,14 @@ menu:
     - name: "Home"
       url: "/"
       weight: 1
-    - name: "About me"
-      url: "/about me/"
+    - name: "About"
+      url: "/about/"
       weight: 2
     - name: "Research"
       url: "/research/"
       weight: 3
     - name: "Publications"
-      url: "/bublications/"
+      url: "/publications/"
       weight: 4
     - name: "Honors"
       url: "honors"
