@@ -1,20 +1,14 @@
-baseurl: "/"
-languageCode: "en-us"
-title: "Bo Shao's Journal"
+baseurl: /
+languageCode: en-us
+title: Bo Shao
 theme: "hugo-ivy"
-ignoreFiles:
-  - "\\.Rmd$"
-  - "\\.Rmarkdown$"
-  - "_cache$"
-  - "\\.tmp$"
+ignoreFiles: ["\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
 preserveTaxonomyNames: true
 footnotereturnlinkcontents: ↩
 
-description: "Explore Bo's world of insights and stories."
-
 permalinks:
-  note: "/notes/:year/:month/:day/:slug/"
-  post: "/articles/:year/:month/:day/:slug/"
+  note: /note/:year/:month/:day/:slug/
+  post: /post/:year/:month/:day/:slug/
 
 menu:
   main:
@@ -24,35 +18,25 @@ menu:
     - name: "About"
       url: "/about/"
       weight: 2
-    - name: "Notes"
-      url: "/notes/"
+    - name: "Blog"
+      url: "/blog/"
       weight: 3
-    - name: "Articles"
-      url: "/articles/"
+    - name: "关于"
+      url: "/关于/"
       weight: 4
-    - name: "Categories"
-      url: "/categories/"
-      weight: 5
-    - name: "Tags"
-      url: "/tags/"
-      weight: 6
-    - name: "Subscribe"
-      url: "/index.xml"
-      weight: 7
+    - name: "日志"
+      url: "/日志"
 
 params:
-  description: "Welcome to Bo Shao's Journal - a space for knowledge and discovery."
-  footer: "&copy; 2024 Bo Shao | Built with [Hugo](https://gohugo.io) | Follow me on [GitHub](https://github.com/bo-shao)"
-  highlightjsLang:
-    - "latex"
-    - "python"
-    - "yaml"
-  highlightjsTheme: "atom-one-dark"
+  description: "Welcome to Bo's planet."
+  footer: "&copy; [Yihui Xie](https://yihui.org) 2017-{Year} | [Github](https://github.com/yihui)"
+  highlightjsLang: ["latex"]
+  highlightjsTheme: "github"
   highlightjsVersion: "11.7.0"
 
 markup:
   highlight:
-    codeFences: true
+    codeFences: false
   goldmark:
     renderer:
       unsafe: true
