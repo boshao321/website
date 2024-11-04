@@ -15,17 +15,17 @@ menu:
     - name: "Home"
       url: "/"
       weight: 1
-    - name: "About Me"
+    - name: "About me"
       url: "/about me/"
       weight: 2
+    - name: "Research"
+      url: "/research/"
+      weight: 3
     - name: "Publications"
       url: "/bublications/"
-      weight: 3
-    - name: "Projects"
-      url: "/projects/"
       weight: 4
-    - name: "Honors & Awards"
-      url: "honors & awards"
+    - name: "Honors"
+      url: "honors"
       weight: 5
     - name: "Hobbies"
       url: "hobbies"
