@@ -25,7 +25,7 @@ menu:
       url: "/publications/"
       weight: 4
     - name: "Honors"
-      url: "honors"
+      url: "/honors/"
       weight: 5
     - name: "Hobbies"
       url: "hobbies"
@@ -35,7 +35,7 @@ menu:
       
 params:
   description: "Welcome to Bo's planet."
-  footer: "&copy; [Bo Shao](https://boshao.netlify.app) {Year} | [Github](https://github.com/boshao321)"
+  footer: "&copy; [Bo Shao](https://boshao.netlify.app) {Year} | [Github](https://github.com/boshao321) | [ResearchGate](https://www.researchgate.net/profile/Bo-Shao-15)"
   highlightjsLang: ["latex"]
   highlightjsTheme: "github"
   highlightjsVersion: "11.7.0"
