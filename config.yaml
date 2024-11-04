@@ -28,7 +28,7 @@ menu:
       url: "/honors/"
       weight: 5
     - name: "Hobbies"
-      url: "hobbies"
+      url: "/hobbies/"
       weight: 6
       
       
