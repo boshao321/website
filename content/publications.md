@@ -23,7 +23,9 @@ title: Publications
 <br> Xin Li, Yongshi Hu, **Bo Shao**, Xiaoli Su. (2024). [Construction of fast fashion clothing sales prediction model based on deep learning]([https://boshao.netlify.app/pdf/基于深度学习的快时尚服装产品销售预测模型构建_李鑫.pdf). *Wool Textile Journal*. (04), 80-87.
   
 - 叶翀,郑艳红 & **邵博**. (2023). [碳交易试点政策对绿色物流效率的影响研究]([https://boshao.netlify.app/pdf/碳交易试点政策对绿色物流效率的影响研究_叶翀.pdf)). *大连海事大学学报*. (05), 49-62. 
-<br> Chong Ye, Yanhong Zheng, **Bo Shao**. (2023). [The Impact of Carbon Emissions Trading Pilot Policy on Green Logistics efficiency.]([https://boshao.netlify.app/pdf/碳交易试点政策对绿色物流效率的影响研究_叶翀.pdf). *Journal of Dalian Maritime University*. (05), 49-62. 
+<br> Chong Ye, Yanhong Zheng, **Bo Shao**. (2023). [The Impact of Carbon Emissions Trading Pilot Policy on Green Logistics efficiency.]([https://boshao.netlify.app/pdf/碳交易试点政策对绿色物流效率的影响研究_叶翀.pdf). *Journal of Dalian Maritime University*. (05), 49-62.
+
+
  
 -  
   <br>
